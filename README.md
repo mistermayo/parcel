@@ -9,11 +9,11 @@ Simple web app for calculating the cost of shipping a package based on the dimen
 Setup Instructions
 ------------------
 
-*Download project folder
-*Go into terminal and type "gem install bundler"
-*Type "bundle"
-*Type "ruby app.rb"
-*Go to localhost:4567/
+* Download project folder
+* Go into terminal and type "gem install bundler"
+* Type "bundle"
+* Type "ruby app.rb"
+* Go to localhost:4567/
 
 License
 -------
